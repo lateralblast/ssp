@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/lateralblast/ssp/master/Sun_Ultra_5_front.jpg)
+![alt tag](https://raw.githubusercontent.com/lateralblast/ssp/master/images/Sun_Ultra_5_front.jpg)
 
 SSP: Sun System Pictures
 ------------------------
